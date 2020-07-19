@@ -7,4 +7,9 @@
 ----
 📊 **Weekly development time**
 <!--START_SECTION:waka-->
+```text
+Week: 11 July, 2020 - 18 July, 2020
+
+
+```
 <!--END_SECTION:waka-->
