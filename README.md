@@ -17,3 +17,7 @@ HTML        3 mins              █░░░░░░░░░░░░░░░
 Other       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 <!--END_SECTION:waka-->
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=false&title_color=1e88e5&icon_color=8ac926&text_color=000000&bg_color=ffffff" alt="idocx's Github Stats"></img>
