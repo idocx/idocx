@@ -1,3 +1,8 @@
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=true" alt="idocx's Github Stats"></img>
+</div>
+
 ## Hi there ~ 👋
 ### This is *Yuxing Fei* 🧑🏻. ‍
 
@@ -6,11 +11,6 @@
 
 ---
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=true" alt="idocx's Github Stats"></img>
-</div>
-
----
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
