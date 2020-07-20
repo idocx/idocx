@@ -4,7 +4,13 @@
 - 🚀 Currently I am working on material informatics and NLP. I am trying to teach computers to read material papers and design novel materials themselves.
 - 🪐 My favourite programming language is `Python🐍`. Most of the my projects are written in `Python`.
 
-----
+---
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=true" alt="idocx's Github Stats"></img>
+</div>
+
+---
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
@@ -17,7 +23,3 @@ HTML        3 mins              █░░░░░░░░░░░░░░░
 Other       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 <!--END_SECTION:waka-->
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=true" alt="idocx's Github Stats">
