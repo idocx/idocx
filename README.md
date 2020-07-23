@@ -1,4 +1,3 @@
-
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=idocx&&show_icons=true" alt="idocx's Github Stats"></img>
 </div>
@@ -23,3 +22,7 @@ HTML        3 mins              ░░░░░░░░░░░░░░░░
 Other       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 <!--END_SECTION:waka-->
+
+### 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=idocx.idocx)
