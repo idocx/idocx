@@ -9,12 +9,9 @@
 - 🪐 My favourite programming language is `Python🐍`. Most of the my projects are written in `Python`.
 
 ---
-<div align="center">
-<span style="font-size: 18px; font-weight: 500;">
-I am looking for a graduate student position. Anyone interested can contact me by email (or any way you like). My CV can be found <a href="https://yuxingfei.com/src/resume.pdf">here</a>. 
-<br />I will be really happy about that.😃
-</span>
-</div>
+
+#### I am looking for a graduate student position. Anyone interested can contact me by email (or any way you like). My CV can be found [here](https://yuxingfei.com/src/resume.pdf). I will be really happy about that. 😃
+
 
 ---
 
