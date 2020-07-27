@@ -7,6 +7,8 @@
 
 - 🚀 Currently I am working on material informatics and NLP. I am trying to teach computers to read material papers and design novel materials themselves.
 - 🪐 My favourite programming language is `Python🐍`. Most of the my projects are written in `Python`.
+- 🌌 I am looking for a graduate student position. Anyone interested can contact me by email (or any way you like). My CV can be found [here](https://yuxingfei.com/src/resume.pdf). I will be really happy for your attention.
+
 
 ---
 
