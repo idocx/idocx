@@ -10,11 +10,6 @@
 
 ---
 
-### I am looking for a graduate student position. Anyone interested can contact me by email (or any way you like). My CV can be found [here](https://yuxingfei.com/src/resume.pdf). I will be really happy about that. 😃
-
-
----
-
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
