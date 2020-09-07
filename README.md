@@ -12,7 +12,7 @@
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2020 - 05 September, 2020
+Week: 30 August, 2020 - 06 September, 2020
 
 JSX          3 hrs 8 mins    ███████████████▒░░░░░░░░░   61.68 % 
 Python       1 hr 28 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
