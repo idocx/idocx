@@ -12,7 +12,7 @@
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
 Python       46 mins         ███████████████████▓░░░░░   78.80 % 
 HTML         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
