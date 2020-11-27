@@ -12,7 +12,7 @@
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
 Python       1 hr 16 mins    ███████████▓░░░░░░░░░░░░░   47.20 % 
 HTML         45 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
