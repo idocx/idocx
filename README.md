@@ -12,7 +12,7 @@
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
 Python       1 hr 2 mins     ███████████████▓░░░░░░░░░   62.05 % 
 PowerShell   38 mins         █████████▒░░░░░░░░░░░░░░░   37.95 % 
