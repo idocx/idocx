@@ -12,9 +12,9 @@
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-Python       33 hrs 58 mins  █████████████████████████   99.98 % 
+Python       31 hrs 49 mins  █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
