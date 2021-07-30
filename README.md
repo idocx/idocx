@@ -16,7 +16,7 @@ Yuxing is not a computer scientist, a physicist or a chemist, but a *HYPERPARAME
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2021 - 28 July, 2021
+Week: 23 July, 2021 - 29 July, 2021
 
 Python       4 hrs           ████████████████░░░░░░░░░   64.48 % 
 Rust         1 hr 47 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 % 
