@@ -16,9 +16,7 @@ Yuxing is not a computer scientist, a physicist or a chemist, but a *HYPERPARAME
 ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
