@@ -17,7 +17,7 @@ Yuxing is not a computer scientist, a physicist or a chemist, but a *HYPERPARAME
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
 Python           6 hrs 46 mins   ██████████████████░░░░░░░   71.65 %
 Assembly         2 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
