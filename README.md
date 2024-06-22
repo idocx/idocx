@@ -17,13 +17,13 @@ Yuxing is not a computer scientist, a physicist or a chemist, but a *HYPERPARAME
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2024 - To: 19 June 2024
+From: 13 June 2024 - To: 20 June 2024
 
-Python       3 hrs 31 mins   ██████████████████░░░░░░░   72.30 %
-JavaScript   1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-C#           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python       4 hrs 12 mins   ██████████████████▓░░░░░░   74.58 %
+JavaScript   1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+C++          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+C#           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
