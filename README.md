@@ -17,13 +17,13 @@ Yuxing is not a computer scientist, a physicist or a chemist, but a *HYPERPARAME
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Python           13 hrs 3 mins         █████████████████████▒░░░   85.45 %
-JSON             47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Other            35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-TeX              28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-TOML             12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Python           9 hrs 43 mins         ████████████████████▒░░░░   81.23 %
+Markdown         1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+TeX              56 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Other            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash             3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
